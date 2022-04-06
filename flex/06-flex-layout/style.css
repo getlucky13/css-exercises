@@ -45,3 +45,16 @@ input {
 .footer {
   align-items: flex-end;
 }
+
+ul {
+  list-style-type: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  gap: 16px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
