@@ -36,6 +36,7 @@ body {
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
+  
 }
 
 .close-button {
@@ -81,5 +82,9 @@ button.cancel {
 }
 
 .content {
-  margin: 8px;
+  margin: 10px;
+}
+
+.text {
+  margin-bottom: 8px;
 }
